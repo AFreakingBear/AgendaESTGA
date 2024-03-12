@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="app_icon">Icon ESTGA</string>
+    <string name="app_desc">Agenda do estudante</string>
+    <string name="user_text">Utilizador</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="registo_text">Registar</string>
+    <string name="temconta_text">Ainda não tem uma conta?</string>
+    <string name="bem_vindo">Seja bem vindo</string>
+    <string name="login_token">TokenLG</string>
+    <string name="logout_text">Log Out</string>
+
+</resources>
